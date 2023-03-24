@@ -1,0 +1,16 @@
+ul li{
+    margin-right: 5px;
+    padding: 5px;
+    list-style-type: none;
+}
+.container-fluid{
+    display: flex;
+}
+ul{
+    display: flex;
+}
+a{
+    color:black;
+    text-decoration: none;
+}
+
